@@ -40,5 +40,3 @@ img.grid()
 plt.legend()
 plt.show()
 
-## pie
-
